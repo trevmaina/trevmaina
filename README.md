@@ -1,6 +1,6 @@
 ## Devtrev - Trevor Maina
 <br/>
-<img src="trevmaina.github.io/devtrev/jaguar.jpeg" width="3000" />
+<img src="trev.jpeg" width="3000" />
 
 <br/>
 
