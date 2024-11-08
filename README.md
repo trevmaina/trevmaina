@@ -3,7 +3,7 @@
 
 **I am Trevor Maina, a self-taught Full-stack web/mobile developer from Kenya.**
 <br/><br/>I enjoy taking up complex problems and turning them into simple and an interactive interface designs. 
-<br/><br/>I'll always strive to write elegant and efficient code, whether it be HTML, CSS, or JavaScript.
+<br/><br/>I'll always strive to write elegant and efficient code, whether it be Web development in HTML, CSS, or JavaScript or even Mobile app development in Flutter - Dart, Android - Kotlin/Java, Apple - Swift.
 <hr/>
 
 ## Fun Fact 🎈:
@@ -20,7 +20,7 @@
 <hr/>
 
 ## 🌏 **CONNECT WITH ME**
-
+I will add my portfolio pages soon but for now you can reach me out via...
 <a href="https://www.instagram.com/trevmaina"> 
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" title="Instagram"  alt="Instagram"/>
 </a>
