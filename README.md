@@ -20,7 +20,7 @@
 <hr/>
 
 ## 🌏 **CONNECT WITH ME**
-I will add my portfolio pages soon but for now you can reach me out via...<br/>
+I will add my portfolio pages soon but for now you can reach me out via...<br><br>
 <a href="https://www.instagram.com/trevmaina"> 
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" title="Instagram"  alt="Instagram">
 </a>
