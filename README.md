@@ -1,5 +1,4 @@
 ## Devtrev - Trevor Maina
-<br/>
 <img align="right" height="200" src="trev.jpeg" alt="myselv" style="margin-right: 3rem;" />
 
 **I am Trevor Maina, a self-taught Full-stack web/mobile developer from Kenya.**
