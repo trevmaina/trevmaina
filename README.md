@@ -4,6 +4,7 @@
 **I am Trevor Maina, a self-taught Full-stack web/mobile developer from Kenya.**
 <br/><br/>I enjoy taking up complex problems and turning them into simple and an interactive interface designs. 
 <br/><br/>I'll always strive to write elegant and efficient code, whether it be Web development in HTML, CSS, or JavaScript or even Mobile app development in Flutter - Dart, Android - Kotlin/Java, Apple - Swift.
+
 <hr/>
 
 ## Fun Fact 🎈:
@@ -20,14 +21,14 @@
 <hr/>
 
 ## 🌏 **CONNECT WITH ME**
-I will add my portfolio pages soon but for now you can reach me out via...<br><br>
-<a target="_blank" href="https://www.instagram.com/trevmaina"> 
+I will add my portfolio website link soon but for now you can reach me out via...<br><br>
+<a href="https://www.instagram.com/trevmaina"> 
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" title="Instagram"  alt="Instagram">
 </a>
-<a target="_blank" href="mailto:litetrev@gmail.com"> 
+<a href="mailto:litetrev@gmail.com"> 
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="Gmail"  alt="Gmail">
 </a>
-<a target="_blank" href="https://wa.me/254713549546">
+<a href="https://wa.me/254713549546">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
 </a>
 
@@ -48,6 +49,7 @@ I will add my portfolio pages soon but for now you can reach me out via...<br><b
 <hr/>
 
 ## 📱 **MOBILE DEV**
+Right now i'm in progress of learning Swift and Flutter but I can make a simple program from them all and a complex android app<br><br>
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white "Flutter")
 <!--[![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB "React Native")][repo]-->
@@ -133,35 +135,6 @@ I will add my portfolio pages soon but for now you can reach me out via...<br><b
 ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![IOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 
-<!-- <hr/>
-
-## ☃️ **MY LEARNING RESOURCES**
-
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)][sof]
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)][medium]
-[![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)][mdn]
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)][youtube]
-[![DigitalOcean](https://img.shields.io/badge/DO_Community-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)][doc]
-[![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)][fcc]
-[![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)][gog]
-[![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)][udemy]
-[![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white)][quora]
-[![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)][google]
-[![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)][github]
-
-[medium]: https://medium.com/
-[github]: https://github.com/
-[google]: https://www.google.com
-[mdn]: https://developer.mozilla.org/en-US/
-[wiki]: https://en.wikipedia.org/wiki/Main_Page
-[quora]: https://www.quora.com/
-[doc]: https://www.digitalocean.com/community
-[udemy]: https://www.udemy.com/
-[gog]: https://www.geeksforgeeks.org/
-[fcc]: https://www.freecodecamp.org/
-[sof]: https://stackoverflow.com/
-[repo]: https://github.com/codingstella?tab=repositories
--->
 <hr/>
 
 ### **Thanks for checking out my GitHub Profile!** 🙏
