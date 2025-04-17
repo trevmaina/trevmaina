@@ -47,6 +47,8 @@ I will add my portfolio website link soon but for now you can reach me out via..
 ![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white "JQuery")
 
 <hr/>
+https://developers.google.com/profile/badges/events/io/2025/registered
+<hr/>
 
 ## 📱 **MOBILE DEV**
 Right now i'm in progress of learning Swift and Flutter but I can make a simple program from them all and a complex android app<br><br>
